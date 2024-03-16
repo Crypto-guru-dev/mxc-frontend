@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f07c3036.css",
-    "main.js": "/static/js/main.acee9e1c.js",
+    "main.js": "/static/js/main.15663718.js",
     "static/js/1287.6425a177.chunk.js": "/static/js/1287.6425a177.chunk.js",
     "static/js/8989.4baed685.chunk.js": "/static/js/8989.4baed685.chunk.js",
     "static/js/5282.8a176136.chunk.js": "/static/js/5282.8a176136.chunk.js",
@@ -64,8 +64,8 @@
     "static/js/6099.ea6b5a83.chunk.js": "/static/js/6099.ea6b5a83.chunk.js",
     "static/js/6041.2bd12851.chunk.js": "/static/js/6041.2bd12851.chunk.js",
     "static/js/770.fb3ca517.chunk.js": "/static/js/770.fb3ca517.chunk.js",
-    "static/js/9042.9e21f769.chunk.js": "/static/js/9042.9e21f769.chunk.js",
-    "static/js/2700.08bf0e32.chunk.js": "/static/js/2700.08bf0e32.chunk.js",
+    "static/js/9042.9aae2450.chunk.js": "/static/js/9042.9aae2450.chunk.js",
+    "static/js/2700.5c566e15.chunk.js": "/static/js/2700.5c566e15.chunk.js",
     "static/media/graphite-01.png": "/static/media/graphite-01.6f3526cd12d14a29b028.png",
     "static/media/wave-02.png": "/static/media/wave-02.4a56e8c748c422819f90.png",
     "static/media/relative-book-pro.eot": "/static/media/relative-book-pro.5d40e8b24d7ada6b5dc0.eot",
@@ -318,6 +318,6 @@
   },
   "entrypoints": [
     "static/css/main.f07c3036.css",
-    "static/js/main.acee9e1c.js"
+    "static/js/main.15663718.js"
   ]
 }
